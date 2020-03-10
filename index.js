@@ -16,9 +16,14 @@ class Lunch {
 }
 
 class Dinner {
-  constructor(food, drink) {
+  constructor(soup, entree, desert) {
     this.food = food
     this.drink = drink
   }
 }
+
+salad).to.equal('balsamic salad')
+    expect(newdinner.soup).to.equal('consomme')
+    expect(newdinner.entree).to.equal('filet mignon')
+    expect(newdinner._dessert).
 
