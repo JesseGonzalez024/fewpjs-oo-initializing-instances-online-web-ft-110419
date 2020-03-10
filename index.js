@@ -23,9 +23,3 @@ class Dinner {
     this.desert = desert
   }
 }
-
-salad).to.equal('balsamic salad')
-    expect(newdinner.soup).to.equal('consomme')
-    expect(newdinner.entree).to.equal('filet mignon')
-    expect(newdinner._dessert).
-
